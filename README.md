@@ -12,4 +12,4 @@
 </div>
 
 ## 👤 Autor
-<img loading="lazy" src="https://avatars.githubusercontent.com/u/203048446?v=4" width=115><br><sub>Elder Rafael</sub> (https://github.com/elderafael7)
+<img loading="lazy" src="https://avatars.githubusercontent.com/u/203048446?v=4" width=115><br><sub><strong>Elder Rafael</strong></sub>
